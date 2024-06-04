@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,8 +26,7 @@
             background-color: blue;
         }
     </style>
-</head>
-<body>
+
 
     <h1 id="h1-1">Heading 1 - 1</h1>
     <h1 id="h1-2">Heading 1 - 2</h1>
@@ -95,3 +95,6 @@
         });
     </script>
     
+</body>
+</html>
+
